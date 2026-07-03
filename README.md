@@ -364,6 +364,7 @@ We welcome contributions! Please follow these guidelines:
 Join the MCP community to stay updated and connect with other developers:
 
 - [Reddit Community](https://www.reddit.com/r/mcp/)
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 
 ## License
 
